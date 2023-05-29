@@ -1,0 +1,2 @@
+https://www.electronforge.io/templates/webpack-template
+https://www.electronforge.io/guides/framework-integration/react
